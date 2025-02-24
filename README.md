@@ -34,28 +34,28 @@
 <!-- GitHub stats -->
 <h3 align="center">My GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=killerag99&show_icons=true&locale=en&theme=dark&bg_color=000000&hide_border=true" alt="killerag99" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KillerAG99&show_icons=true&locale=en&theme=dark&bg_color=000000&hide_border=true" alt="killerag99" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=killerag99&theme=dark&background=000000&hide_border=true" alt="killerag99" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KillerAG99&theme=dark&background=000000&hide_border=true" alt="killerag99" />
 </p>
 
 <!-- Top languages -->
 <h3 align="center">Top Languages:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=killerag99&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=000000&hide_border=true" alt="killerag99" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KillerAG99&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=000000&hide_border=true" alt="killerag99" />
 </p>
 
 <!-- GitHub trophies -->
 <h3 align="center">GitHub Trophies</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=killerag99&theme=darkhub&no-frame=true" alt="killerag99" />
+  <img src="https://github-profile-trophy.vercel.app/?username=KillerAG99&theme=darkhub&no-frame=true" alt="killerag99" />
 </p>
 
 <!-- GitHub activity graph -->
 <h3 align="center">My GitHub Activity Graph:</h3>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=killerag99&theme=react-dark&bg_color=000000" alt="killerag99" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KillerAG99&theme=react-dark&bg_color=000000" alt="killerag99" />
 </p>
 
 <!-- Snake animation -->
