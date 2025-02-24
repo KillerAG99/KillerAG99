@@ -23,7 +23,7 @@
 <!-- Social media icons -->
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/killerag99" target="https://www.linkedin.com/in/aaditya-gupta-killerag99/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="killerag99" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/in/aaditya-gupta-killerag99/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Aaditya Gupta" height="30" width="40" style="color: ffffff;" /></a>
 </p>
 
 <!-- Dynamic quote by an AMD or Intel CEO -->
