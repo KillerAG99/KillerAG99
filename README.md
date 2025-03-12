@@ -9,7 +9,7 @@
 
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=600&color=00FF00&center=true&vCenter=true&width=435&lines=Verilog+%26+VHDL;Analog+%26+Digital+Electronics;VLSI+Design" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=600&color=00FF00&center=true&vCenter=true&width=435&lines=Verilog+%26+VHDL;Analog+%26+Digital+Electronics;VLSI+Design;Computer+Architecture;Processor+Design" alt="Typing SVG" />
 </p>
 
 <!-- About me -->
