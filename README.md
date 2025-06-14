@@ -9,11 +9,11 @@
 
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=600&color=00FF00&center=true&vCenter=true&width=435&lines=Verilog+%26+VHDL;VLSI+Design;Computer+Architecture;Processor+Design;Analog+%26+Digital+Electronics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=600&color=00FF00&center=true&vCenter=true&width=435&lines=Verilog+%26+VHDL;VLSI+Design;Computer+Architecture;Processor+Design;Analog+%26+Digital+Electronics;Test Engineering"; alt="Typing SVG" />
 </p>
 
 <!-- About me -->
-- 👀 I’m interested in **Computer Architecture, Digital Design, and Coding** 🖥️🔧📐
+- 👀 I’m interested in **Computer Architecture, Digital Design, Hardware Coding and Analog Testing** 🖥️🔧📐
 - 🌱 I’m currently studying at **IIT Bombay** 🎓
 - 💞️ I’m looking to collaborate on **computer architecture and processor design projects** 🏗️🧠
 - 📫 If you are reading this, you have already reached me XD
